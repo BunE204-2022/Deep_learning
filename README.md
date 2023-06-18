@@ -8,9 +8,9 @@ reading_notes文件夹为北京师范大学2022级教育测量与大数据挖掘
 
 Chapter1：刘烽睿   
 
-Chapter2：刘烽睿&陈梓杰
+Chapter2：刘烽睿
 
-Chapter3：周施远 
+Chapter3：刘烽睿&陈梓杰 
 
 Chapter4：卢瑞琦  
 
