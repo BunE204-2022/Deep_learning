@@ -3,3 +3,11 @@
 书籍网址：http://zh.d2l.ai/index.html  
 讨论区：https://discuss.gluon.ai/  
 封装函数网址：https://github.com/d2l-ai/d2l-en/blob/master/d2l/torch.py
+
+reading_notes文件夹为北京师范大学2022级教育测量与大数据挖掘硕士班李峰老师课题组同学读书笔记
+Chapter1：
+Chapter2：
+Chapter3：
+Chapter4：
+Chapter6：王珞宇
+Chapter7：卢瑞琦
